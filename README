@@ -1,0 +1,11 @@
+JavaScript connected to a Django database.
+
+ 1/20/2019
+- Restarted project from scratch due to inherent issues in code. Researched better practices and found a useful tutorial found here: https://www.valentinog.com/blog/tutorial-api-django-rest-react/ which should be close to exactly what I am trying to accomplish. 
+
+1/23/2019
+- Researched exactly what will be needed and broke down the program tree for this part. 
+- Issue with code due to django.core.exceptions.ImproperlyConfigured: Application labels aren't unique, duplicates: rest_framework
+
+1/25/2019
+- Recommited to GitHub due to user error. 
